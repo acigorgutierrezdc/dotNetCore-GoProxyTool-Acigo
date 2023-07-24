@@ -1,0 +1,1 @@
+{"index":0,"configs":[{"server":"your.domain or ip","server_port":8880,"server_type":"http","server_mode":"ws","method":"aes-256-cfb","password":"abc"}]}
